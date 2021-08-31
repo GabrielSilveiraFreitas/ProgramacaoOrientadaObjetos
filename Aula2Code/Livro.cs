@@ -19,9 +19,9 @@ namespace Aula2Code
             this.autor = autor;
         }
         //...
-        public void AplicarDesconto(decimal percDesconto)
+        public decimal AplicarDesconto(decimal percDesconto)
         {
-            //aplica desconto
+            return 0;
         }
         public void save(Livro livro)
         {
