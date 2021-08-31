@@ -19,12 +19,14 @@ namespace Aula2Code
             this.autor = autor;
         }
         //...
+        public void AplicarDesconto(decimal percDesconto)
+        {
 
-        
-
-
-
-
+        }
+        public void save(Livro livro)
+        {
+            //vai salvar o livro no bd
+        }
 
     }
 }
