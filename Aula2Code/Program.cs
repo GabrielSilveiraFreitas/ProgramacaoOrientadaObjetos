@@ -14,6 +14,12 @@ namespace Aula2Code
             //Quem é o autor do livro
             Console.WriteLine(meuLivro.autor.nome + meuLivro.autor.fone);
 
+            //Como alterar a descrição d livro
+            meuLivro.descricao = "Clear code";
+            meuLivro.valor = 160;
+
+            Console.WriteLine("Hello World!");
+
         }
     }
 }

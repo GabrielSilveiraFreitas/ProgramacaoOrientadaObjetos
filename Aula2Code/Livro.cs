@@ -21,7 +21,7 @@ namespace Aula2Code
         //...
         public void AplicarDesconto(decimal percDesconto)
         {
-
+            //aplica desconto
         }
         public void save(Livro livro)
         {
